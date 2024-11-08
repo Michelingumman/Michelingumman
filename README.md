@@ -16,8 +16,7 @@ I'm an Electrical Engineering student at Chalmers University of Technology, curr
 ## Let's Connect
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/adam-michelin)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=JuliaAha&color=yellow)
-
+[![Visitor Count](https://komarev.com/ghpvc/?username=Michelingumman&color=green)
 <!---
 Michelingumman/Michelingumman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
