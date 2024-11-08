@@ -14,7 +14,7 @@ I'm an Electrical Engineering student at Chalmers University of Technology, curr
 - Advanced Sauna Control & UI
 
 ## Let's Connect
-LinkedIn: https://www.linkedin.com/in/adam-michelin/
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/adam-michelin)
 
 <!---
 Michelingumman/Michelingumman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
