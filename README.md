@@ -1,4 +1,4 @@
-#" About Me
+# About Me
 I'm an Electrical Engineering student at Chalmers University of Technology, currently wrapping up my Bachelor's degree with a focus on control theory, power systems, and electronics. With a deep interest in new technologies and innovative engineering, I enjoy working on projects that not only push my technical skills but also aim for real-world impact. :)
 
 ## Key Interests
