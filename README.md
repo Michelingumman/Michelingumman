@@ -2,16 +2,16 @@
 I'm an Electrical Engineering student at Chalmers University of Technology, currently wrapping up my Bachelor's degree with a focus on control theory, power systems, and electronics. With a deep interest in new technologies and innovative engineering, I enjoy working on projects that not only push my technical skills but also aim for real-world impact. :)
 
 ## Key Interests
-- Energy & Power Systems
-- Embedded Systems & Circuit Design
+- ⚡Energy & Power Systems
+- 🔋Embedded Systems & Circuit Design
 
 ## Notable Projects
-- Capacitance-Based Fluid Flow Measurement
-- 3 Phase Power Meter
-- Advanced Ventilation System
-- BMS for Leakage Current
-- Rainwater Collection System
-- Advanced Sauna Control & UI
+- 🌊 Capacitance-Based Fluid Flow Measurement
+- 🔌 3 Phase Power Meter
+- 💨 Advanced Ventilation System
+- ⚡BMS for Leakage Current
+- 💧 Rainwater Collection System
+- 🥵 Smart Sauna Control & UI
 
 ## Let's Connect
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/adam-michelin)
