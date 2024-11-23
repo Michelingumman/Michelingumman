@@ -56,57 +56,59 @@ text, tspan {white-space: pre;}
 
 
 
-<text x="500" y="50" fill="#c9d1d9">
+
+<text x="530" y="50" fill="#c9d1d9">
 <!-- Header -->
-<tspan x="500" y="90" fill="#cdcd">> Michelingumman</tspan>
-<tspan x="500" y="110" fill="#cdcd">——————————</tspan>
+<tspan x="530" y="90" fill="#cdcd">> Michelingumman</tspan>
+<tspan x="530" y="110" fill="#cdcd">——————————</tspan>
 
 <!-- About -->
-<tspan x="500" y="130" class="keyColor">About.Age</tspan>:
+<tspan x="530" y="130" class="keyColor">About.Age</tspan>:
 <tspan class="valueColor">23</tspan>
-<tspan x="500" y="150" class="keyColor">About.Country</tspan>:
+<tspan x="530" y="150" class="keyColor">About.Country</tspan>:
 <tspan class="valueColor">Sweden</tspan>
-<tspan x="500" y="170" class="keyColor">Always.True</tspan>:
+<tspan x="530" y="170" class="keyColor">Always.True</tspan>:
 <tspan class="valueColor">White Monster >> Other</tspan>
 
 <!-- Languages -->
-<tspan x="500" y="210" class="keyColor">Languages.Coding.good</tspan>:
+<tspan x="530" y="210" class="keyColor">Languages.Coding.good</tspan>:
 <tspan class="valueColor">C, C++, Python</tspan>
-<tspan x="500" y="230" class="keyColor">Languages.Coding.semi-good</tspan>:
+<tspan x="530" y="230" class="keyColor">Languages.Coding.semi-good</tspan>:
 <tspan class="valueColor">HTML, CSS, JSON, VHDL, ARM</tspan>
-<tspan x="500" y="250" class="keyColor">Languages.Irl</tspan>:
+<tspan x="530" y="250" class="keyColor">Languages.Irl</tspan>:
 <tspan class="valueColor">Swedish, English</tspan>
 
 <!-- Education -->
-<tspan x="500" y="290" class="keyColor">Education.Chalmers</tspan>:
+<tspan x="530" y="290" class="keyColor">Education.Chalmers</tspan>:
 <tspan class="valueColor">BSc Electrical Engineering [in 6 months]</tspan>
 
 <!-- Interests -->
-<tspan x="500" y="330" class="keyColor">Interests.Software</tspan>:
+<tspan x="530" y="330" class="keyColor">Interests.Software</tspan>:
 <tspan class="valueColor">LTSpice, Fusion360, PlatformIO, KiCad</tspan>
-<tspan x="500" y="350" class="keyColor">Interests.Hardware</tspan>:
+<tspan x="530" y="350" class="keyColor">Interests.Hardware</tspan>:
 <tspan class="valueColor">MCU's, Analog Circuits, Signal Processing</tspan>
-<tspan x="500" y="370" class="keyColor">Interests.!Random</tspan>:
+<tspan x="530" y="370" class="keyColor">Interests.!Random</tspan>:
 <tspan class="valueColor">Devon Larratt</tspan>
 
 <!-- Projects -->
-<tspan x="500" y="410" class="keyColor">Projects.1</tspan>:
+<tspan x="530" y="410" class="keyColor">Projects.1</tspan>:
 <tspan class="valueColor">Ebook Reader</tspan>
-<tspan x="500" y="430" class="keyColor">Projects.2</tspan>:
+<tspan x="530" y="430" class="keyColor">Projects.2</tspan>:
 <tspan class="valueColor">Capacitance-Based Fluid Flow Measurement</tspan>
-<tspan x="500" y="450" class="keyColor">Projects.3</tspan>:
+<tspan x="530" y="450" class="keyColor">Projects.3</tspan>:
 <tspan class="valueColor">Advanced Ventilation System</tspan>
 
 <!-- Contact -->
-<tspan x="500" y="510" class="keyColor">Email</tspan>:
+<tspan x="530" y="510" class="keyColor">Email</tspan>:
 <tspan class="valueColor">adam.michelin01@gmail.com</tspan>
-<tspan x="500" y="530" class="keyColor">LinkedIn</tspan>:
+<tspan x="530" y="530" class="keyColor">LinkedIn</tspan>:
 <tspan class="valueColor">Adam Michelin</tspan>
-<tspan x="500" y="550" class="keyColor">Website</tspan>:
+<tspan x="530" y="550" class="keyColor">Website</tspan>:
 <tspan class="valueColor">adammichelin.dev</tspan>
 
-<tspan x="500" y="570" fill="#cdcd">——————————</tspan>
+<tspan x="530" y="570" fill="#cdcd">——————————</tspan>
 </text>
+
 
 
 
