@@ -104,6 +104,8 @@ text, tspan {white-space: pre;}
 <tspan class="valueColor">adam.michelin01@gmail.com</tspan>
 <tspan x="500" y="530" class="keyColor">LinkedIn</tspan>:
 <tspan class="valueColor">Adam Michelin</tspan>
+<tspan x="500" y="530" class="keyColor">Website</tspan>:
+<tspan class="valueColor">adammichelin.dev</tspan>
 
 <tspan x="500" y="550" fill="#cdcd">——————————</tspan>
 </text>
