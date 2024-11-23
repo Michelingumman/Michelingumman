@@ -107,7 +107,7 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="550" class="keyColor">Website</tspan>:
 <tspan class="valueColor">adammichelin.dev</tspan>
 
-<tspan x="500" y="550" fill="#cdcd">——————————</tspan>
+<tspan x="500" y="570" fill="#cdcd">——————————</tspan>
 </text>
 
 
