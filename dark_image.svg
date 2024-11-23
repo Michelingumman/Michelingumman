@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1020px" height="670px" font-size="13px">
 <style>
-.keyColor {fill: #ffa657;}
-.valueColor {fill: #a5d6ff;}
+.keyColor {fill: #FFA500  ;}
+.valueColor {fill: #39D353  ;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
@@ -57,43 +57,55 @@ text, tspan {white-space: pre;}
 
 
 <text x="500" y="50" fill="#c9d1d9">
-  
-  <!-- Header -->
-  <tspan x="500" y="90" fill="#fffff">Michelingumman</tspan>
-  <tspan x="500" y="110" fill="#8b949e">——————</tspan>
-  
-  <!-- Languages -->
-  <tspan x="500" y="130" fill="#f0a500" class="keyColor">Languages.Coding.good</tspan>: 
-  <tspan fill="#39d353" class="valueColor">C, C++, Python</tspan>
-  <tspan x="500" y="150" fill="#f0a500" class="keyColor">Languages.Coding.semi-good</tspan>: 
-  <tspan fill="#39d353" class="valueColor">HTML, CSS, JSON, VHDL, ARM</tspan>
-  <tspan x="500" y="170" fill="#f0a500" class="keyColor">Languages.Irl</tspan>: 
-  <tspan fill="#39d353" class="valueColor">Swedish, English</tspan>
+<!-- Header -->
+<tspan x="500" y="90" fill="#cdcd">> Michelingumman</tspan>
+<tspan x="500" y="110" fill="#cdcd">——————————</tspan>
 
-  <!-- Education -->
-  <tspan x="500" y="210" fill="#ffd700" class="keyColor">Education.Chalmers</tspan>: 
-  <tspan fill="#9ecbff" class="valueColor">BSc Electrical Engineering [in 6 months]</tspan>
+<!-- About -->
+<tspan x="500" y="130" class="keyColor">About.Age</tspan>:
+<tspan class="valueColor">23</tspan>
+<tspan x="500" y="150" class="keyColor">About.Country</tspan>:
+<tspan class="valueColor">Sweden</tspan>
+<tspan x="500" y="170" class="keyColor">About.FunFact</tspan>:
+<tspan class="valueColor">White Monster >> Other</tspan>
 
-  <!-- Interests -->
-  <tspan x="500" y="250" fill=".keyColor" class="keyColor">Interests.Software</tspan>: 
-  <tspan fill="#ff7b72" class="valueColor">LTSpice, Fusion360, PlatformIO, KiCad</tspan>
-  <tspan x="500" y="270" fill=".keyColor" class="keyColor">Interests.Hardware</tspan>: 
-  <tspan fill="#ff7b72" class="valueColor">MCU, PCB Design, Circuits</tspan>
+<!-- Languages -->
+<tspan x="500" y="210" class="keyColor">Languages.Coding.good</tspan>:
+<tspan class="valueColor">C, C++, Python</tspan>
+<tspan x="500" y="230" class="keyColor">Languages.Coding.semi-good</tspan>:
+<tspan class="valueColor">HTML, CSS, JSON, VHDL, ARM</tspan>
+<tspan x="500" y="250" class="keyColor">Languages.Irl</tspan>:
+<tspan class="valueColor">Swedish, English</tspan>
 
-  <!-- Projects -->
-  <tspan x="500" y="310" fill="#d2a8ff" class="keyColor">Projects.1</tspan>: 
-  <tspan fill="#a5d6ff" class="valueColor">Ebook Reader</tspan>
-  <tspan x="500" y="330" fill="#d2a8ff" class="keyColor">Projects.2</tspan>: 
-  <tspan fill="#a5d6ff" class="valueColor">Capacitance-Based Fluid Flow Measurement</tspan>
-  <tspan x="500" y="350" fill="#d2a8ff" class="keyColor">Projects.3</tspan>: 
-  <tspan fill="#a5d6ff" class="valueColor">Advanced Ventilation System</tspan>
+<!-- Education -->
+<tspan x="500" y="290" class="keyColor">Education.Chalmers</tspan>:
+<tspan class="valueColor">BSc Electrical Engineering [in 6 months]</tspan>
 
-  <!-- Contact -->
-  <tspan x="500" y="390" fill="#79c0ff" class="keyColor">Email</tspan>: 
-  <tspan fill="#9ecbff" class="valueColor">adam.michelin01@gmail.com</tspan>
-  <tspan x="500" y="410" fill="#79c0ff" class="keyColor">LinkedIn</tspan>: 
-  <tspan fill="#9ecbff" class="valueColor">Adam Michelin</tspan>
-  
+<!-- Interests -->
+<tspan x="500" y="330" class="keyColor">Interests.Software</tspan>:
+<tspan class="valueColor">LTSpice, Fusion360, PlatformIO, KiCad</tspan>
+<tspan x="500" y="350" class="keyColor">Interests.Hardware</tspan>:
+<tspan class="valueColor">MCU's, Analog Circuits, Signal Processing</tspan>
+<tspan x="500" y="370" class="keyColor">Interests.!Random</tspan>:
+<tspan class="valueColor">Devon Larratt</tspan>
+
+<!-- Projects -->
+<tspan x="500" y="410" class="keyColor">Projects.1</tspan>:
+<tspan class="valueColor">Ebook Reader</tspan>
+<tspan x="500" y="430" class="keyColor">Projects.2</tspan>:
+<tspan class="valueColor">Capacitance-Based Fluid Flow Measurement</tspan>
+<tspan x="500" y="450" class="keyColor">Projects.3</tspan>:
+<tspan class="valueColor">Advanced Ventilation System</tspan>
+<tspan x="500" y="470" class="keyColor">Projects.4</tspan>:
+<tspan class="valueColor">Smart Home Automation</tspan>
+
+<!-- Contact -->
+<tspan x="500" y="510" class="keyColor">Email</tspan>:
+<tspan class="valueColor">adam.michelin01@gmail.com</tspan>
+<tspan x="500" y="530" class="keyColor">LinkedIn</tspan>:
+<tspan class="valueColor">Adam Michelin</tspan>
+
+<tspan x="500" y="550" fill="#cdcd">——————————</tspan>
 </text>
 
 
