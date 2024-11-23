@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="720px" height="650px" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1020px" height="670px" font-size="13px">
 <style>
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -9,50 +9,72 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="720px" height="650px" fill="#161b22" rx="15"/>
+<rect width="1000px" height="650px" fill="#161b22" rx="15"/>
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                    .-.                                                  .-.                     </tspan>
-<tspan x="15" y="45">                     .=%=                                              =%=.                      </tspan>
-<tspan x="15" y="60">                       :@=                                            +@.                        </tspan>
-<tspan x="15" y="75">                       .@*                                            *@                         </tspan>
-<tspan x="15" y="90">                      .#@-                                            -@#.                       </tspan>
-<tspan x="15" y="105">                     :@@%                                              %@%:                      </tspan>
-<tspan x="15" y="120">                    :@*@=                                              =@*@:                     </tspan>
-<tspan x="15" y="135">                    %#=@=                                              =@=##                     </tspan>
-<tspan x="15" y="150">                    @=-@%.                :-+******+-.                .%@-+@                     </tspan>
-<tspan x="15" y="165">                    %* %@%-            -*%*-:@-  =@:=*%*-            =%@% *%                     </tspan>
-<tspan x="15" y="180">                    =@.:@%#%+:       :%#: .+%@-  =@%+: :#%:       :+%##@:.@=                     </tspan>
-<tspan x="15" y="195">                     *%..*%+=+###+=:+%- :#%=.@-  =@.-##: -%+:-+*##+=+%*..%*                      </tspan>
-<tspan x="15" y="210">                      =%+ .=##*=---+*. =@=   @-  =@   -@= .%%----+##=..+%=                       </tspan>
-<tspan x="15" y="225">                       .+%*-  :-+*#*  -@:    @-  =@    :@: .%#*+=:  -*%=                         </tspan>
-<tspan x="15" y="240">                          :+##*=-.    %*     @-  =@           :-=*##+:                           </tspan>
-<tspan x="15" y="255">                              .-+@###########@-##=@###########@+-.                                </tspan>
-<tspan x="15" y="270">                                ##          .@-..=@           %%                                 </tspan>
-<tspan x="15" y="285">                                @############@+  +@#########: +@:                                </tspan>
-<tspan x="15" y="300">                                #::++  -++-  :%**%:  -++: .+: =@:                                </tspan>
-<tspan x="15" y="315">                         :::--=**=:     -+=.  ==  .=+-    .+*-:                                 </tspan>
-<tspan x="15" y="330">                           ...=%=  :=        .    .       ==  -=++=---                           </tspan>
-<tspan x="15" y="345">                         ..:-##- -*=.        @=  =@       .*#:  +=..:.                           </tspan>
-<tspan x="15" y="360">                      =#*++=-. =+- .-=     .=@#==#@=.     :=-#*:.**-.   :==                      </tspan>
-<tspan x="15" y="375">                     :+       +*  =*- .: .+%=..--..=%+. .*#:. -##-:=****=:                       </tspan>
-<tspan x="15" y="390">                              ++ ++  =+:-@+  :++++-  +%*#- :%=  -#++-.                           </tspan>
-<tspan x="15" y="405">                             =* += =* +%: :##:..:##::%@+ :..%+ :*  .::                          </tspan>
-<tspan x="15" y="420">                           -=+=. -* +=-@:  .:   :*-:%%-:@--# :%=:+                                </tspan>
-<tspan x="15" y="435">                                *#=:*##   :: .+*:  :=. ##.%: ##.=                                </tspan>
-<tspan x="15" y="450">                              -*:#::@= :+-.-*-    .=- *# %- %* :                                </tspan>
-<tspan x="15" y="465">                               :+ :#:--**.-*=.-:  -+: --. **:%:  -*                              </tspan>
-<tspan x="15" y="480">                           ..  :-  :#+*- -*..#= :*= :*-    +%*   ++                              </tspan>
-<tspan x="15" y="495">                            *=    := .*-  *= +#.=+. +*: :*:.++=+++-                               </tspan>
-<tspan x="15" y="510">                               :#+-=*+:  +-.++  =*+: :#+  +*..+-                                     </tspan>
-<tspan x="15" y="525">                              ...     -=:.   -+  =%- :*- :=.                                      </tspan>
-<tspan x="15" y="540">                                   ...:-.=#--+ +#..+*. :.                                        </tspan>
-<tspan x="15" y="555">                                       .+#=  -+ %--*-                                             </tspan>
-<tspan x="15" y="570">                                        ==    =+  =*.                                              </tspan>
-<tspan x="15" y="585">                                             =+ :#                                                </tspan>
-<tspan x="15" y="600">                                                :#.                                               </tspan>
-<tspan x="15" y="615">                                                +:                                               </tspan>
+  <tspan x="15" y="30">     .-.                                                  .-.                     </tspan>
+  <tspan x="15" y="45">      .=%=                                              =%=.                      </tspan>
+  <tspan x="15" y="60">        :@=                                            +@.                        </tspan>
+  <tspan x="15" y="75">        .@*                                            *@                         </tspan>
+  <tspan x="15" y="90">       .#@-                                            -@#.                       </tspan>
+  <tspan x="15" y="105">      :@@%                                              %@%:                      </tspan>
+  <tspan x="15" y="120">     :@*@=                                              =@*@:                     </tspan>
+  <tspan x="15" y="135">     %#=@=                                              =@=##                     </tspan>
+  <tspan x="15" y="150">     @=-@%.                :-+******+-.                .%@-+@                     </tspan>
+  <tspan x="15" y="165">     %* %@%-            -*%*-:@-  =@:=*%*-            =%@% *%                     </tspan>
+  <tspan x="15" y="180">     =@.:@%#%+:       :%#: .+%@-  =@%+: :#%:       :+%##@:.@=                     </tspan>
+  <tspan x="15" y="195">      *%..*%+=+###+=:+%- :#%=.@-  =@.-##: -%+:-+*##+=+%*..%*                      </tspan>
+  <tspan x="15" y="210">       =%+ .=##*=---+*. =@=   @-  =@   -@= .%%----+##=..+%=                       </tspan>
+  <tspan x="15" y="225">        .+%*-  :-+*#*  -@:    @-  =@    :@: .%#*+=:  -*%=                         </tspan>
+  <tspan x="15" y="240">           :+##*=-.    %*     @-  =@           :-=*##+:                           </tspan>
+  <tspan x="15" y="255">               .-+@###########@-##=@###########@+-.                                </tspan>
+  <tspan x="15" y="270">                 ##          .@-..=@           %%                                 </tspan>
+  <tspan x="15" y="285">                 @############@+  +@#########: +@:                                </tspan>
+  <tspan x="15" y="300">                 #::++  -++-  :%**%:  -++: .+: =@:                                </tspan>
+  <tspan x="15" y="315">           :::--=**=:     -+=.  ==  .=+-    .+*-:                                 </tspan>
+  <tspan x="15" y="330">            ...=%=  :=        .    .       ==  -=++=---                           </tspan>
+  <tspan x="15" y="345">          ..:-##- -*=.        @=  =@       .*#:  +=..:.                           </tspan>
+  <tspan x="15" y="360">       =#*++=-. =+- .-=     .=@#==#@=.     :=-#*:.**-.   :==                      </tspan>
+  <tspan x="15" y="375">      :+       +*  =*- .: .+%=..--..=%+. .*#:. -##-:=****=:                       </tspan>
+  <tspan x="15" y="390">               ++ ++  =+:-@+  :++++-  +%*#- :%=  -#++-.                           </tspan>
+  <tspan x="15" y="405">              =* += =* +%: :##:..:##::%@+ :..%+ :*  .::                          </tspan>
+  <tspan x="15" y="420">             -=+=. -* +=-@:  .:   :*-:%%-:@--# :%=:+                                </tspan>
+  <tspan x="15" y="435">                 *#=:*##   :: .+*:  :=. ##.%: ##.=                                </tspan>
+  <tspan x="15" y="450">               -*:#::@= :+-.-*-    .=- *# %- %* :                                </tspan>
+  <tspan x="15" y="465">              :+ :#:--**.-*=.-:  -+: --. **:%:  -*                              </tspan>
+  <tspan x="15" y="480">            ..  :-  :#+*- -*..#= :*= :*-    +%*   ++                              </tspan>
+  <tspan x="15" y="495">              *=    := .*-  *= +#.=+. +*: :*:.++=+++-                               </tspan>
+  <tspan x="15" y="510">               :#+-=*+:  +-.++  =*+: :#+  +*..+-                                     </tspan>
+  <tspan x="15" y="525">                ...     -=:.   -+  =%- :*- :=.                                      </tspan>
+  <tspan x="15" y="540">                    ...:-.=#--+ +#..+*. :.                                        </tspan>
+  <tspan x="15" y="555">                        .+#=  -+ %--*-                                             </tspan>
+  <tspan x="15" y="570">                        ==    =+  =*.                                              </tspan>
+  <tspan x="15" y="585">                              =+ :#                                                </tspan>
+  <tspan x="15" y="600">                                :#.                                               </tspan>
+  <tspan x="15" y="615">                                 +:                                               </tspan>
 </text>
 
+
+
+<text x="500" y="30" fill="#c9d1d9">
+<tspan x="500" y="30">Michelingumman</tspan>
+<tspan x="500" y="50">——————</tspan>
+<tspan x="500" y="190" class="keyColor">Languages.Coding.good</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
+<tspan x="500" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
+<tspan x="500" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
+<tspan x="500" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
+<tspan x="500" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="500" y="330" class="keyColor">Contact</tspan>:
+<tspan x="500" y="350">——————</tspan>
+<tspan x="500" y="500" class="keyColor">Email</tspan>: <tspan class="valueColor">agrantnmac@gmail.com</tspan>
+<tspan x="500" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
+<tspan x="500" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">andrew6rant</tspan>
+<tspan x="500" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="500" y="470">——————</tspan>
+<tspan x="500" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">95</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">133</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,078  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">282</tspan>
+<tspan x="500" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">145 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">441,817</tspan> (<tspan class="addColor">515,733++</tspan>, <tspan class="delColor">73,916--</tspan>)
+</text>
+
+  
 
 </svg>
