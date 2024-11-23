@@ -96,8 +96,6 @@ text, tspan {white-space: pre;}
 <tspan class="valueColor">Capacitance-Based Fluid Flow Measurement</tspan>
 <tspan x="500" y="450" class="keyColor">Projects.3</tspan>:
 <tspan class="valueColor">Advanced Ventilation System</tspan>
-<tspan x="500" y="470" class="keyColor">Projects.4</tspan>:
-<tspan class="valueColor">Smart Home Automation</tspan>
 
 <!-- Contact -->
 <tspan x="500" y="510" class="keyColor">Email</tspan>:
