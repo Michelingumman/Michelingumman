@@ -91,11 +91,11 @@ text, tspan {white-space: pre;}
 <tspan class="valueColor">Devon Larratt</tspan>
 
 <!-- Projects -->
-<tspan x="530" y="410" class="keyColor">Projects.1</tspan>:
-<tspan class="valueColor">Ebook Reader</tspan>
-<tspan x="530" y="430" class="keyColor">Projects.2</tspan>:
+<tspan x="530" y="410" class="keyColor">Project.1</tspan>:
+<tspan class="valueColor">Smart Downloads Manager</tspan>
+<tspan x="530" y="430" class="keyColor">Project.2</tspan>:
 <tspan class="valueColor">Capacitance-Based Fluid Flow Measurement</tspan>
-<tspan x="530" y="450" class="keyColor">Projects.3</tspan>:
+<tspan x="530" y="450" class="keyColor">Project.3</tspan>:
 <tspan class="valueColor">Advanced Ventilation System</tspan>
 
 <!-- Contact -->
